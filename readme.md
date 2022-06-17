@@ -19,7 +19,9 @@ Dataset	N	Size	Link
 BSDS500	500	481×321 or 321×481	www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
 
 NY17	[1200×1600] – [5430×3520]	www.gcc.tu-darmstadt.de/home/proj/dpid/index.en.jsp
+
 NY	96	[500×334] – [6394×3456]	www.gcc.tu-darmstadt.de/home/proj/dpid/index.en.jsp
+
 13US	13	[241×400] – [400×310]	www.cl.cam.ac.uk/~aco41/Files/Sig15UserStudyImages.html
 
 URBAN100	100	[1024×564] – [1024×1024]	paperswithcode.com/dataset/urban100
